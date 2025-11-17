@@ -1,0 +1,1 @@
+In this repository, a basic GUI was built, which took input from the user, having a restriction of 12 characters and not being null. It can, then covert the input to morse code and blink the connected LED, based on the code. 
